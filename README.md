@@ -1,59 +1,31 @@
 # Tech Vida - Solução de Assistente de Saúde com Inteligência Artificial
 
-## Integrantes:
-- **Nome do Aluno :** Levy Nascimento Junior (RM: 98655)
+## Problema de Saúde Abordado:
 
-## Descrição do Projeto:
+O Tech Vida visa abordar desafios comuns relacionados à saúde, como a falta de assistência personalizada, a dificuldade de monitoramento contínuo e a necessidade de práticas preventivas. Este projeto busca proporcionar uma solução abrangente para melhorar a qualidade de vida e promover a saúde preventiva.
 
-O projeto **Tech Vida** é uma solução inovadora que visa transformar a experiência de saúde, incorporando inteligência artificial para fornecer assistência preventiva e personalizada. A solução aborda a importância da saúde, utilizando tecnologia para promover práticas saudáveis e prevenir doenças.
+## Visão Geral da Solução:
 
-## Funcionalidades Principais:
+O Tech Vida é uma solução inovadora baseada em inteligência artificial (IA) que atua como um assistente de saúde personalizado. Ele utiliza algoritmos avançados para oferecer orientações personalizadas, monitora dados de saúde em tempo real e promove a prevenção de doenças. A solução é projetada para integrar-se a dispositivos wearables e facilitar o agendamento de consultas médicas.
 
-1. **Assistente de Saúde Personalizado:**
-   - Utiliza IA para oferecer orientações personalizadas com base nas condições de saúde do usuário.
+## Configuração e Execução da Aplicação:
 
-2. **Monitoramento em Tempo Real:**
-   - Acompanha dados de saúde em tempo real para fornecer feedback instantâneo.
+### Pré-requisitos:
+- Python instalado (versão X.X).
+- Bibliotecas adicionais (listadas no arquivo `requirements.txt`).
 
-3. **Integração com Dispositivos:**
-   - Conecta-se a wearables e outros dispositivos para coletar dados adicionais.
+### Configuração:
+1. Clone este repositório: `git clone URL_DO_SEU_REPOSITORIO`.
+2. Navegue até o diretório do projeto: `cd TechVida`.
 
-4. **Agendamento de Consultas:**
-   - Facilita o agendamento de consultas médicas, integrando-se aos sistemas de saúde.
+### Execução:
+1. Execute `python main.py` no terminal.
+2. Siga as instruções na interface para interagir com o assistente de saúde.
 
-## Diferenciais da Solução:
+## Simulação do Projeto no Wokwi:
 
-- **Abordagem Preventiva:**
-  - Foco na prevenção de doenças e promoção do bem-estar.
-
-- **Inteligência Artificial Avançada:**
-  - Utiliza algoritmos avançados para personalizar as recomendações com base em padrões de saúde.
-
-- **Interface Amigável:**
-  - Interface intuitiva para uma experiência do usuário agradável.
-
-## Vídeo de Demonstração:
-
-[Link para o vídeo de demonstração](URL_DO_SEU_VIDEO)
-
-## Instruções de Execução:
-
-1. **Pré-requisitos:**
-   - Python instalado (versão X.X).
-   - Bibliotecas adicionais (listadas no arquivo `requirements.txt`).
-
-2. **Configuração:**
-   - Clone este repositório.
-
-3. **Execução:**
-   - Navegue até o diretório do projeto.
-   - Execute `python main.py` no terminal.
-
-## Repositório:
-
-[Link para o Repositório no GitHub](URL_DO_SEU_REPOSITORIO)
+A simulação do projeto pode ser acessada [aqui](URL_DA_SIMULACAO_NO_WOKWI). Certifique-se de explorar todas as funcionalidades e interações disponíveis na simulação.
 
 ---
 
-**Observação:** Certifique-se de fornecer links reais e informações específicas conforme necessário.
-
+**Observação:** Certifique-se de fornecer links reais e informações específicas conforme necessário. Este README é um guia básico; sinta-se à vontade para expandi-lo com mais detalhes sobre a solução, recursos e instruções.
