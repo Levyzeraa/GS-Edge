@@ -17,4 +17,4 @@ Inicie o sistema e siga as instruções no display.
 
 ## Simulação do Projeto no Wokwi:
 
-A simulação do projeto pode ser acessada [https://wokwi.com/projects/336743172331799123]. Certifique-se de explorar todas as funcionalidades e interações disponíveis na simulação.
+A simulação do projeto pode ser acessada [https://wokwi.com/projects/382295648618944513]. Certifique-se de explorar todas as funcionalidades e interações disponíveis na simulação.
